@@ -117,10 +117,10 @@ npm install
 
 
 ### Landing Page
-![Landing Page](/screenshots/main-page.png)
+![Landing Page](/public/main-page.png)
 
 ### Project Listing Page
-![Projects Page](/screenshots/project-page.png)
+![Projects Page](/public/project-page.png)
 
 ### Task Page
-![Tasks Page](screenshots/task-page.png)
+![Tasks Page](/public/task-page.png)
