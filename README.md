@@ -63,11 +63,7 @@ A modern, responsive project and task management dashboard built with React, Typ
 ├── main.tsx
 ├── index.html
 ├── index.css
-├── App.css
-├── vite-env.d.ts
-├── .gitignore
-├── components.json
-└── eslint.config.js
+└── App.css
 
 ```
 
