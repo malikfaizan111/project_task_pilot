@@ -115,7 +115,7 @@ npm install
 ### Landing Page
 ![Landing Page](/public/main-page.png)
 
-### Project Listing Page
+### Project Page
 ![Projects Page](/public/project-page.png)
 
 ### Task Page
